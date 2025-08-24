@@ -13,9 +13,6 @@
 ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ronit127.ronit127)](https://github.com/ronit127/ronit127)
-
 </div>
 
 
